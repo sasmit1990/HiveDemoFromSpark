@@ -1,0 +1,27 @@
+Page block order: 9
+Pages per block:  512
+
+Free pages count per migrate type at order       0      1      2      3      4      5      6      7      8      9     10 
+Node    0, zone      DMA, type    Unmovable      1      0      0      1      2      1      1      0      1      0      0 
+Node    0, zone      DMA, type  Reclaimable      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone      DMA, type      Movable      0      0      0      0      0      0      0      0      0      1      3 
+Node    0, zone      DMA, type      Reserve      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone      DMA, type          CMA      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone      DMA, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone    DMA32, type    Unmovable    967   1241    912    345    148     47     15      7      3      0      0 
+Node    0, zone    DMA32, type  Reclaimable   1350   1190   1007    724    364    131     67      9      5      0      0 
+Node    0, zone    DMA32, type      Movable  25422  32327  18383   5802   1500    379    112     36     59      0      0 
+Node    0, zone    DMA32, type      Reserve      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone    DMA32, type          CMA      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone    DMA32, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone   Normal, type    Unmovable  13479  25478  18719   4743    416      3      0      0      0      0      0 
+Node    0, zone   Normal, type  Reclaimable  17341  15241  12789   3130    514     15      0      0      0      0      0 
+Node    0, zone   Normal, type      Movable 424876 736809 363567 149775  18688    274      1      0      0      0      0 
+Node    0, zone   Normal, type      Reserve      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone   Normal, type          CMA      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone   Normal, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+
+Number of blocks type     Unmovable  Reclaimable      Movable      Reserve          CMA      Isolate 
+Node 0, zone      DMA            1            0            7            0            0            0 
+Node 0, zone    DMA32           85          120         1323            0            0            0 
+Node 0, zone   Normal         2007          921        26256            0            0            0 

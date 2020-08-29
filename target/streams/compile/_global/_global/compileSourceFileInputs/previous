@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.11":{"hashes":[["/home/orienit/Downloads/being_datum_hadoop/hive_table_test/src/main/scala/com/spark_hive/test/hive_test.scala","8f24d82f9e1b545f2e344fffbc431421cdf93ca9"]],"lastModifiedTimes":[]}}]
